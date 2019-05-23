@@ -106,3 +106,8 @@ verify_integer!(i8);
 verify_integer!(i16);
 verify_integer!(i32);
 verify_integer!(i64);
+verify_integer!(u8);
+verify_integer!(u16);
+verify_integer!(u32);
+verify_integer!(u64);
+
