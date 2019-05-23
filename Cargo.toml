@@ -1,0 +1,9 @@
+[package]
+name = "latte_verify"
+version = "0.1.0"
+authors = ["qiongtubao <810776886@qq.com>"]
+edition = "2018"
+
+[dependencies]
+json= "*"
+regex = "*"
